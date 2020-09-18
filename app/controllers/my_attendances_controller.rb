@@ -1,0 +1,3 @@
+class MyAttendancesController < ApplicationController
+ 
+end

@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-
   resources :events, :attendances
 
   namespace :api do
