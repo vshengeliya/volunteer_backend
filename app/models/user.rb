@@ -1,7 +1,9 @@
 class User < ApplicationRecord
     has_many :attendances
     has_many :events
+    has_many :comments
     has_many :my_attendances, through: :attendances, source: :event
+    has_many :my_comments, through: :comments, source: :event
 
     has_secure_password
 

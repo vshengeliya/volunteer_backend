@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'comments/index'
+  get 'comments/show'
+  get 'comments/create'
+  get 'comments/destroy'
   resources :events, :attendances
 
   namespace :api do
