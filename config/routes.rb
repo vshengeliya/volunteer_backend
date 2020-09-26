@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   get 'comments/show'
   get 'comments/create'
   get 'comments/destroy'
-  resources :events, :attendances
+  resources :events, :attendances, :comments
 
   namespace :api do
     namespace :v1 do
