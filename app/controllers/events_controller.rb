@@ -14,6 +14,7 @@ class EventsController < ApplicationController
 
   def create
     event = Event.create(event_params)
+    # byebug
     render json: event
   end
 

@@ -100,36 +100,36 @@ attendance_3 = Attendance.create(
 )
 
 comment_1 = Comment.create(
-    comment:"It was great helping sich a professional people, would love to repeat",
+    comment:"It was great helping such professional people, would love to repeat",
     date:'09-15-2020',
     user_id: user_3.id,
     event_id: event_1.id,
 )
 
 comment_2 = Comment.create(
-    comment:"It was fun sitting with Anna, we've playes a lot!",
+    comment:"It was fun sitting with Anna, we've played a lot!",
     date:'09-01-2020',
     user_id: user_1.id,
     event_id: event_3.id,
 )
 
 comment_3 = Comment.create(
-    comment:"Looking forward to spent time with baby Anna",
-    date:'09-28-2020',
+    comment:"Looking forward to spend time with baby Anna",
+    date:'09-17-2020',
     user_id: user_2.id,
     event_id: event_3.id,
 )
 
 comment_4 = Comment.create(
     comment:"Loved this puppet show",
-    date:'09-15-2020',
+    date:'09-30-2020',
     user_id: user_3.id,
     event_id: event_2.id,
 )
 
 comment_5 = Comment.create(
     comment:"Looking forward to help with this Pupper Show",
-    date:'09-15-2020',
+    date:'10-01-2020',
     user_id: user_1.id,
     event_id: event_2.id,
 )
