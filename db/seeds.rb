@@ -57,7 +57,7 @@ event_1 = Event.create(
 )
 
 event_2 = Event.create(
-    name: "Pupper show assistance",
+    name: "Puppet show assistance",
     value_proposition: "free access to show",
     event_type: "performance",
     quantity: 3,
@@ -70,7 +70,7 @@ event_2 = Event.create(
 )
 
 event_3 = Event.create(
-    name: "Baby Citter",
+    name: "Baby Sitter",
     value_proposition: "free dinner",
     event_type: "general help",
     quantity: 1,

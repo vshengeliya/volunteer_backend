@@ -7,7 +7,7 @@ class CreateEvents < ActiveRecord::Migration[6.0]
       t.integer :quantity
       t.string :image
       t.string :details
-      t.date :date
+      t.string :date
       t.string :city
       t.string :state
       t.integer :user_id
