@@ -17,7 +17,7 @@ As a user:
 
 This App was built with:
  - Ruby on Rails for backend
- - React Javascript for frontend (`https://github.com/vshengeliya/volunteer_frontend`)
+ - React Javascript for [frontend](https://github.com/vshengeliya/volunteer_frontend)
  - Semantic UI for React for styling
 
 To run the App:
