@@ -23,7 +23,7 @@ This App was built with:
 To run the App:
 
  - cd into the folder volunteer_backend
- - run `rails db:create db:migrate` - to create a Data Base and migrte the tables
+ - run `rails db:create db:migrate` - to create a Data Base and migrate the tables
  - run `rails db:seed` - to seed the created data
  - run `bundle install` - to install and update all the Gems
  - run `rails s` - to turn on the server
