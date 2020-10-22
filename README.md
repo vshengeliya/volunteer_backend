@@ -28,5 +28,5 @@ To run the App:
  - run `bundle install` - to install and update all the Gems
  - run `rails s` - to turn on the server
 
- Created by Veronika Dodda<br>
+ Created by [Veronika Dodda](https://github.com/vshengeliya)<br>
  [See Demo](https://youtu.be/Su-lPvynOsk)
