@@ -28,5 +28,7 @@ To run the App:
  - run `rails db:seed` - to seed the created data
  - run `rails s` - to turn on the server
 
+ Enjoy the experience!  [See Demo](https://youtu.be/Su-lPvynOsk)
+ 
  Created by [Veronika Dodda](https://github.com/vshengeliya)<br>
- [See Demo](https://youtu.be/Su-lPvynOsk)
+
